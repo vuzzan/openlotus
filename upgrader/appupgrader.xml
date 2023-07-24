@@ -1,0 +1,18 @@
+<rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" xmlns:dc="http://purl.org/dc/elements/1.1/" version="2.0">
+  <channel>
+    <title>OpenLotus App Changelog</title>
+    <link>https://pkap.xyz/openlotus/files/openlotuscast.xml</link>
+    <description>Version của Open Lotus.</description>
+    <language>en</language>
+    <item>
+      <title>Version 2.0</title>
+      <link>https://pkap.xyz</link>
+      <sparkle:version>2.0</sparkle:version>
+      <description>
+      <![CDATA[ <ul> <li>Version mới</li> </ul> ]]>
+      </description>
+      <pubDate>Sat, 26 Jul 2023 15:20:11 +0000</pubDate>
+      <enclosure url="https://sparkle-project.org/files/Sparkle%20Test%20App.zip" length="107758" type="application/octet-stream" sparkle:edSignature="7cLALFUHSwvEJWSkV8aMreoBe4fhRa4FncC5NoThKxwThL6FDR7hTiPJh1fo2uagnPogisnQsgFgq6mGkt2RBw=="/>
+    </item>
+  </channel>
+</rss>
